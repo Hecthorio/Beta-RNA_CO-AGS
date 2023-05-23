@@ -11,7 +11,7 @@ Los parámetros de entrada al modelo son Día, Hora y Concentracion(t-1), y se d
 
 NOTA: Este modelo no fue entrenado con la información de entrada escalada, así que se puede utilizar la información de manera directa
 
-##Consideraciones del modelo
+## Consideraciones del modelo
 
 * El modelo **SOLO** fue entrenado con un mes de datos (abril, 2022) obtenidos del SINAICA, de la estación de monitoreo de la Secretaria del Medio Ambiente (SMA) del estado de Aguascalientes.
 
